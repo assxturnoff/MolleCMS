@@ -1,0 +1,27 @@
+
+Jeżeli bool i nie ma _not tzn. że sa add_code'y
+
+users_set_user
+users_get_nickname
+users_get_nickname_not
+users_get_permission
+users_register
+users_login
+users_check_email
+users_check_password
+users_check_login
+users_is_login
+users_is_login_not
+
+plugins_installed
+plugins_uninstalled
+plugins_is_install
+plugins_is_install_not
+plugins_activation
+plugins_deactivation
+plugins_is_active
+plugins_is_active_not
+
+templates_v_{DYNAMIC}
+templates_t_{DYNAMIC}
+templates_search
