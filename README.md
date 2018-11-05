@@ -21,3 +21,4 @@ Projekt CMS oparty na PHP 7.0. Projet jest tworzony bez użycia jakichkolwiek fr
 
 ## **Dokumentacja**
 Wkrótce..
+test
